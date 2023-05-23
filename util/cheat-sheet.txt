@@ -1,0 +1,16 @@
+{
+    "id": 1,
+    "item_name": "",
+    "item_id": 0,
+    "item_price": 0,
+    "components": [
+    {
+        "component_name": "",
+        "component_id": 0,
+        "component_price": 0,
+        "component_amount": 0,
+        "on_ah": 1
+    }
+  ]
+}
+

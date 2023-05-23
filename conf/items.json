@@ -1,0 +1,51 @@
+{
+    "id": 1,
+    "item_name": "Mechano-Hog",
+    "item_id": 41508,
+    "item_price": 0,
+    "components": [
+      {
+        "component_name": "Titansteel Bar",
+        "component_id": 37663,
+        "component_price": 0,
+        "component_amount": 12,
+        "on_ah": 1 
+      },
+      {
+        "component_name": "Handful of Cobalt Bolts",
+        "component_id": 39681,
+        "component_price": 0,
+        "component_amount": 40,
+        "on_ah": 1
+      },
+      {
+        "component_name": "Arctic Fur",
+        "component_id": 44128,
+        "component_price": 0,
+        "component_amount": 2,
+        "on_ah": 1
+      },
+      {
+        "component_name": "Salvaged Iron Golem Parts",
+        "component_id": 44499,
+        "component_price": 3000,
+        "component_amount": 1,
+        "on_ah": 0
+      },
+      {
+        "component_name": "Goblin-Machined Piston",
+        "component_id": 44501,
+        "component_price": 1000,
+        "component_amount": 8,
+        "on_ah": 0
+      },
+      {
+        "component_name": "Elementium-Plated Exhaust Pipe",
+        "component_id": 44500,
+        "component_price": 1500,
+        "component_amount": 1,
+        "on_ah": 0
+      }
+    ]
+  }
+  
